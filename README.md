@@ -1,4 +1,8 @@
+<img src="https://raw.githubusercontent.com/victorczhou/victorczhou/master/assets/gifs/banner.gi" alt="banner for @victorczhou">
+
 ### Hi there 👋
+
+
 
 <!--
 **victorczhou/victorczhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
