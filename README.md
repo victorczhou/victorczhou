@@ -1,4 +1,4 @@
-<img src="https://github.com/victorczhou/victorczhou/blob/master/assets/gifs/banner.gif?raw=true" alt="banner for @victorczhou">
+![banner for @victorczhou](https://github.com/victorczhou/victorczhou/blob/master/assets/gifs/banner.gif?raw=true)
 
 ### Hi there 👋
 
